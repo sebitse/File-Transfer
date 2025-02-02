@@ -1,7 +1,7 @@
 import os
 
 # General configuration
-SERVER_IP = "192.168.1.103"
+SERVER_IP = "--"
 SERVER_PORT = 5001
 CHUNK_SIZE = 4096  # block of 4KB
 

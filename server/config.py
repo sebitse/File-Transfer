@@ -1,7 +1,7 @@
 import os
 
 # Server's address & port
-SERVER_IP = "0.0.0.0"  # Ascultă pe toate interfețele de rețea
+SERVER_IP = "0.0.0.0"
 SERVER_PORT = 5001
 
 # directory info
