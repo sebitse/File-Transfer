@@ -1,0 +1,8 @@
+# Encryption and Security
+pycryptodome 
+
+# GUI (Tkinter is built into Python, but ttkbootstrap improves styling)
+# ttkbootstrap 
+
+# General Utilities
+pillow 
