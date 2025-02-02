@@ -1,4 +1,4 @@
-# 🔄 Secure File Transfer
+# Secure File Transfer
 
 A **Python-based** encrypted file transfer system for **LAN** using **AES encryption**. Supports **GUI (Tkinter) & CLI**, with **Docker compatibility**.
 
@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Usage
+## Usage
 ### **CLI Mode**
 ```bash
 python server/server.py   # Start server
